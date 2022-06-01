@@ -1,4 +1,4 @@
-let chars = ["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()_+~\\`|}{[]:;?><,./-=0123456789"]
+const CHARS = ["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()_+~\\`|}{[]:;?><,./-=0123456789"]
 
 let passFieldsEl1 = document.getElementById("pass-field1")
 let passFieldsEl2 = document.getElementById("pass-field2")
